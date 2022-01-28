@@ -1,4 +1,4 @@
-package Optional.example;
+package optional.example;
 
 import java.util.Properties;
 

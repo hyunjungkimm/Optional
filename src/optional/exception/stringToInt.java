@@ -1,4 +1,4 @@
-package Optional.exception;
+package optional.exception;
 
 import java.util.Optional;
 

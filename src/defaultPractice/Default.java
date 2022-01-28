@@ -1,4 +1,4 @@
-package Default;
+package defaultPractice;
 
 import java.util.Arrays;
 import java.util.Comparator;

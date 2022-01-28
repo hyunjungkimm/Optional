@@ -1,4 +1,4 @@
-package Optional.nullPointerException;
+package optional.nullPointerException;
 
 public class Insurance {
     private String name;

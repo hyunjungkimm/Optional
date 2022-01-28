@@ -1,4 +1,4 @@
-package Default;
+package defaultPractice;
 
 public interface A {
     default void hello(){

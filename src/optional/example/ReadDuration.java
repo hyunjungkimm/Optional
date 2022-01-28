@@ -1,6 +1,5 @@
-package Optional.example;
+package optional.example;
 
-import java.util.Optional;
 import java.util.Properties;
 
 public class ReadDuration {

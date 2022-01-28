@@ -1,4 +1,4 @@
-package Optional.nullPointerException;
+package optional.nullPointerException;
 
 public class Car {
     private Insurance insurance;

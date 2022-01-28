@@ -1,4 +1,4 @@
-package Default;
+package defaultPractice;
 
 public interface Sized {
     int size();
